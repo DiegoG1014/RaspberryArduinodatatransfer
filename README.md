@@ -1,1 +1,2 @@
 RaspberryArduinodatatransfer
+My first C++ project. Transfers unencrypted, uncompressed and rather bug-prone data through the GPIO between a two clients. Mostly designed for a Raspberry Pi 3 model B and an Arduino Uno -- But theorically it should work with anything else
